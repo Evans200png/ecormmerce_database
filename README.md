@@ -55,9 +55,11 @@ Key tables in the schema:
 
 ## 🤝 Group Collaboration
 
-This project was built individually by:
+This project was built collaboratively by the following members of the Power Learn Project group:
 
 - **Evanson Kimani** - kimanievansonk@gmail.com
+- **emmanuel	too** -	tooemmanuel94@gmail.com
+- **toheeb	babalola** - naijafighters@gmail.com
 
 --
 
