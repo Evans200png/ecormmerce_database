@@ -60,6 +60,7 @@ This project was built collaboratively by the following members of the Power Lea
 - **Evanson Kimani** - kimanievansonk@gmail.com
 - **emmanuel	too** -	tooemmanuel94@gmail.com
 - **toheeb	babalola** - naijafighters@gmail.com
+- **felix	okeyo**	- felix.okeyo254@gmail.com
 
 --
 
